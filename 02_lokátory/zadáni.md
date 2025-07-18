@@ -10,6 +10,8 @@ Máme tento html kód:
   </div>
 </body>
 ```
+chceme ukazat na h1 pomocou textoveho lokatoru. "text='Nadpis 2'"
+
 
 # 1. úkol:
 

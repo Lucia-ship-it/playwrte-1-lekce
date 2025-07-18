@@ -11,15 +11,15 @@ Máme tento kus html:
 
 Zodpověz tyto otázky:
 
-Kolik html elementů v daném kódu figuruje?
+Kolik html elementů v daném kódu figuruje? - 2
 
-Který z elementů je rodič a který je potomek?
+Který z elementů je rodič a který je potomek? - div, img
 
 Ke kterému elementu patří text "Tady je napdis."?
 
-Může mít tag `<img>` nějaký další element v sobě?
+Může mít tag `<img>` nějaký další element v sobě? - ne
 
-Může mít tag `<div>` nějaký další element v sobě?
+Může mít tag `<div>` nějaký další element v sobě? - ano
 
 Kolik atributů má `<h1>`?
 
