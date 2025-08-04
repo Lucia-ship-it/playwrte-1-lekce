@@ -15,7 +15,7 @@ Kolik html elementů v daném kódu figuruje? - 2
 
 Který z elementů je rodič a který je potomek? - div, img
 
-Ke kterému elementu patří text "Tady je napdis."?
+Ke kterému elementu patří text "Tady je napdis."? div
 
 Může mít tag `<img>` nějaký další element v sobě? - ne
 
